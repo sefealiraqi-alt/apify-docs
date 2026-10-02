@@ -1,4 +1,4 @@
----
+ةن---
 title: Apify MCP server
 sidebar_label: MCP server
 description: Learn how to use the Apify MCP server to integrate Apify's library of Actors into your AI agents or large language model-based applications.
